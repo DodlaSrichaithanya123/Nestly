@@ -19,61 +19,45 @@ You may add them as Git submodules or simply clone both repos manually.
 Frontend
 
 Technology: React + Vite
-
 Directory: nestly-frontend/
 
 Backend
 
 Technology: Spring Boot (Java)
-
 Directory: nestly-backend/
 
 ✨ Features
+
 Frontend
 
 User signup/login
-
 Room listings
-
 Room details
-
 Booking UI flow
-
 Responsive UI with animations
 
 Backend
 
 REST APIs for rooms & bookings
-
 Secure authentication
-
 Database integration
-
 Room filtering/search API
 
 ⚙️ Tech Stack
 Frontend
 
 React.js
-
 Vite
-
 React Router
-
 Axios
-
 Framer Motion
 
 Backend
 
 Spring Boot
-
 Java
-
 Spring Security
-
 Spring Data JPA
-
 MySQL/PostgreSQL
 
 🛠️ Environment Variables
@@ -88,12 +72,12 @@ JWT_SECRET=
 
 🚀 Run Locally
 1️⃣ Clone the main repository
-git clone https://github.com/your-username/Nestly.git
+git clone https://github.com/DodlaSrichaithanya123/Nestly.git
 cd Nestly
 
 2️⃣ Clone the frontend & backend into this folder
-git clone https://github.com/your-username/nestly-frontend.git
-git clone https://github.com/your-username/nestly-backend.git
+git clone https://github.com/DodlaSrichaithanya123/nestly-frontend.git
+git clone https://github.com/DodlaSrichaithanya123/nestly-backend.git
 
 ▶️ Start Frontend
 cd nestly-frontend
